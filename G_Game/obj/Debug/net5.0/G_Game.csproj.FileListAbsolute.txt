@@ -1,0 +1,16 @@
+D:\coding\CSharpCource\G_Game\bin\Debug\net5.0\G_Game.exe
+D:\coding\CSharpCource\G_Game\bin\Debug\net5.0\G_Game.deps.json
+D:\coding\CSharpCource\G_Game\bin\Debug\net5.0\G_Game.runtimeconfig.json
+D:\coding\CSharpCource\G_Game\bin\Debug\net5.0\G_Game.runtimeconfig.dev.json
+D:\coding\CSharpCource\G_Game\bin\Debug\net5.0\G_Game.dll
+D:\coding\CSharpCource\G_Game\bin\Debug\net5.0\ref\G_Game.dll
+D:\coding\CSharpCource\G_Game\bin\Debug\net5.0\G_Game.pdb
+D:\coding\CSharpCource\G_Game\obj\Debug\net5.0\G_Game.csprojAssemblyReference.cache
+D:\coding\CSharpCource\G_Game\obj\Debug\net5.0\G_Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\CSharpCource\G_Game\obj\Debug\net5.0\G_Game.AssemblyInfoInputs.cache
+D:\coding\CSharpCource\G_Game\obj\Debug\net5.0\G_Game.AssemblyInfo.cs
+D:\coding\CSharpCource\G_Game\obj\Debug\net5.0\G_Game.csproj.CoreCompileInputs.cache
+D:\coding\CSharpCource\G_Game\obj\Debug\net5.0\G_Game.dll
+D:\coding\CSharpCource\G_Game\obj\Debug\net5.0\ref\G_Game.dll
+D:\coding\CSharpCource\G_Game\obj\Debug\net5.0\G_Game.pdb
+D:\coding\CSharpCource\G_Game\obj\Debug\net5.0\G_Game.genruntimeconfig.cache
