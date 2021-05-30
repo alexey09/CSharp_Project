@@ -1,0 +1,16 @@
+D:\coding\CSharpCource\ChessPlayers\obj\Debug\net5.0\ChessPlayers.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\CSharpCource\ChessPlayers\obj\Debug\net5.0\ChessPlayers.AssemblyInfoInputs.cache
+D:\coding\CSharpCource\ChessPlayers\obj\Debug\net5.0\ChessPlayers.AssemblyInfo.cs
+D:\coding\CSharpCource\ChessPlayers\obj\Debug\net5.0\ChessPlayers.csproj.CoreCompileInputs.cache
+D:\coding\CSharpCource\ChessPlayers\bin\Debug\net5.0\Top100ChessPlayers.csv
+D:\coding\CSharpCource\ChessPlayers\bin\Debug\net5.0\ChessPlayers.exe
+D:\coding\CSharpCource\ChessPlayers\bin\Debug\net5.0\ChessPlayers.deps.json
+D:\coding\CSharpCource\ChessPlayers\bin\Debug\net5.0\ChessPlayers.runtimeconfig.json
+D:\coding\CSharpCource\ChessPlayers\bin\Debug\net5.0\ChessPlayers.runtimeconfig.dev.json
+D:\coding\CSharpCource\ChessPlayers\bin\Debug\net5.0\ChessPlayers.dll
+D:\coding\CSharpCource\ChessPlayers\bin\Debug\net5.0\ref\ChessPlayers.dll
+D:\coding\CSharpCource\ChessPlayers\bin\Debug\net5.0\ChessPlayers.pdb
+D:\coding\CSharpCource\ChessPlayers\obj\Debug\net5.0\ChessPlayers.dll
+D:\coding\CSharpCource\ChessPlayers\obj\Debug\net5.0\ref\ChessPlayers.dll
+D:\coding\CSharpCource\ChessPlayers\obj\Debug\net5.0\ChessPlayers.pdb
+D:\coding\CSharpCource\ChessPlayers\obj\Debug\net5.0\ChessPlayers.genruntimeconfig.cache
